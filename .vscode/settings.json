@@ -1,0 +1,5 @@
+{
+    "explorer.fileNesting.enabled": true,
+    "workbench.editor.scrollToSwitchTabs": true,
+    "workbench.editor.sharedViewState": true
+}
