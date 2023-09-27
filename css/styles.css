@@ -1,4 +1,7 @@
-
+html{
+    max-width: 1280px;
+    margin: 0 auto;
+}
 
 body {
     margin: 0;
@@ -499,7 +502,7 @@ background: linear-gradient(90deg, rgba(24,57,132,1) 30%, rgba(9,40,68,0.4682247
 
 
 footer {
-    margin: 1rem;
+    margin: 0;
     padding: 1rem;
     color: #FFF;
     background-color: #000000;
